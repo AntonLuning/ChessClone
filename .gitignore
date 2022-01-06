@@ -1,0 +1,6 @@
+# Binaries
+**/bin/
+**/obj/
+
+# Visual Studio files
+.vs/
