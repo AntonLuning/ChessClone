@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Chess
+namespace ChessGame
 {
     public static class Program
     {
